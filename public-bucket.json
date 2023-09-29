@@ -9,8 +9,7 @@
                 "s3:GetObject"
             ],
             "Resource": [
-                "arn:aws:s3:::kc-kuhns-test/*"
- 
+                "arn:aws:s3:::kc-kuhns-client-data/*"
             ]
         }
     ]
