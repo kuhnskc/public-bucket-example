@@ -1,1 +1,2 @@
-These examples should not be used and are for demonstration purposes only.
+#CNAPP Public S3 Bucket Example
+##These are examples only and should not be used in a real environment. 
